@@ -5,6 +5,9 @@
 			img{
 				height: 205px;
 			}
+			.card{
+				width: 300px;margin: 20px 20px;
+			}
 			.card-body{
 				margin-top: 30px;
 				margin-left: 25px;
@@ -24,4 +27,7 @@
 		vertical-align: top;
 		font-size: 35px;
 		color: #333333;
+			}
+			.price i{
+				font-size: 35px;height:40px;width: 50px;color:#4ED17B;float: right;
 			}
