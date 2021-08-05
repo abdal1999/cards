@@ -1,0 +1,27 @@
+.container{
+				display: flex;
+				font-family: Roboto;
+			}
+			img{
+				height: 205px;
+			}
+			.card-body{
+				margin-top: 30px;
+				margin-left: 25px;
+			}
+			h5{
+				color: #333333;
+				font-size: 20px;
+		font-weight: bold;
+			}
+			p{
+				color: #666666;
+				font-size: 15px;
+				font-weight: bold;
+			}
+			.price h5, .price p{
+				display: inline;
+		vertical-align: top;
+		font-size: 35px;
+		color: #333333;
+			}
